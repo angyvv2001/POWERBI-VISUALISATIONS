@@ -1,0 +1,21 @@
+Key Components & Features
+
+    Data Sources: Raw match data, often scraped or from datasets (Kaggle).
+    Data Transformation: Using Power Query to clean and shape data.
+    Data Modeling: Creating relationships between tables (e.g., player, match, team).
+    DAX Measures: Dynamic calculations for top scorers, strike rates, economy rates, etc..
+    Visualizations: Interactive charts for team performance, player stats, match results, trends, and creating dream XIs.
+    Interactivity: Slicers for filtering by team, player, or match. 
+
+Examples of Projects
+
+    Men's T20 World Cup 2022 Analysis: Compare player performances and select a best XI.
+    Women's World Cup 2025 Analysis: Focus on recent tournament data for insights.
+    ICC Men's ODI World Cup 2023: Detailed analysis dashboards. 
+
+Where to Find Them
+
+    LinkedIn: Professionals showcase their dashboards and projects.
+    GitHub: Repositories with PBIX files, data, and code for analysis.
+    Kaggle: Datasets for World Cup matches available for analysis.
+    NovyPro: Platforms for sharing and viewing BI projects. 
